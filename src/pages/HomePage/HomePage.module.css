@@ -1,0 +1,46 @@
+.title {
+  margin: auto;
+  text-align: center;
+}
+
+.container {
+  margin-top: 20px;
+  padding: 10px;
+  display: flex;
+  justify-content: start;
+  gap: 20px;
+  overflow-x: auto;
+}
+
+.form {
+  width: 250px;
+  height: 100px;
+}
+
+.column {
+  width: 250px;
+}
+
+.input {
+  width: 100%;
+}
+
+.cancel {
+  margin-left: 8px !important;
+}
+
+.create {
+  width: 250px;
+  height: 30px;
+}
+
+.error {
+  display: block;
+}
+
+.loader {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
